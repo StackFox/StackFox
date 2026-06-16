@@ -1,25 +1,116 @@
-# 💫 About Me:
-Hi👋, I'm currently learning Full Stack Web Development
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshit-codes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakshit0702@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=StackFox&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=StackFox&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StackFox&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<p align="center">
+  <a href="https://github.com/StackFox">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=700&color=9A4DFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rakshit+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;Currently+Learning+Spring+Boot+%E2%98%95%EF%B8%8F" alt="Typing Animation"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=StackFox&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rakshit.dev) 
+<h2 align="center">About Me! 🕵🏻‍♂️</h2>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <div align="left" style="display:inline-block; text-align:left; padding-left:25px; max-width:600px;">
+👋 Hi! I'm <b>Rakshit</b> — a <b>Full Stack Web Developer</b> who loves building end-to-end web applications.<br>
+💻 I'm passionate about <b>React, Next.js, Node.js</b> and modern JavaScript frameworks.<br>
+☕ Currently diving deep into <b>Spring Boot</b> to expand my backend toolkit.<br>
+🧠 I enjoy working on <b>AI-driven projects</b> and turning ideas into real, functional products.<br>
+🌱 Always learning, always shipping — curious to solve real problems through <b>clean code</b> and <b>continuous learning</b>.
+  </div>
+</div>
+
+---
+
+<h2 align="center">Currently Working On 👩🏻‍💻</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="280px">
+      <b>☕ Spring Boot</b><br>
+      <sub>Learning backend development with Java & Spring Boot to build robust APIs and microservices.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">Previously Built 👩🏻‍🔧</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="280px">
+      <b>🧠 Aura PDF</b><br>
+      <sub>A RAG application for natural language processing on PDF files — ask questions, get answers from your documents.</sub>
+    </td>
+    <td align="center" width="280px">
+      <b>📱 LifeQR</b><br>
+      <sub>Full-stack QR code platform with separate frontend & backend — generate, manage, and track QR codes.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="280px">
+      <b>🔗 Linkly</b><br>
+      <sub>A URL Shortener built with Spring Boot — clean, minimal, and fast.</sub>
+    </td>
+    <td align="center" width="280px">
+      <b>🌾 AgroNavis</b><br>
+      <sub>AI-powered farm intelligence platform for crop disease detection and data-driven farming decisions.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">Tech Stack ⚙️</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,java,spring,python,html,css,tailwind,vite,mysql,mongodb,git,github,docker,vscode,figma&theme=light" />
+</p>
+
+---
+
+<h2 align="center">GitHub Insights 📊</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StackFox&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StackFox&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StackFox&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160px"/>
+</p>
+
+---
+
+<h2 align="center">Let's Connect, Collaborate & Chat 🌐</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rakshit-codes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-9A4DFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:rakshit0702@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-9A4DFF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/sharma_rak72933" target="_blank">
+    <img src="https://img.shields.io/badge/X-9A4DFF?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Let's build, collaborate, and innovate together 💡💬</i>
+</p>
+
+---
+
+<h3 align="center">"Code. Create. Repeat." 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=StackFox&label=Profile%20Views&color=9A4DFF&style=flat-square" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="animated divider">
+</p>
+
+<p align="center">
+  <img src="https://github.com/kyechan99/capsule-render/blob/master/docs/demo.gif?raw=true" width="100%" alt="automation wave"/>
+</p>
