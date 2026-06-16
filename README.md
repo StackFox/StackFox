@@ -51,10 +51,6 @@
       <b>🔗 Linkly</b><br>
       <sub>A URL Shortener built with Spring Boot — clean, minimal, and fast.</sub>
     </td>
-    <td align="center" width="280px">
-      <b>🌾 AgroNavis</b><br>
-      <sub>AI-powered farm intelligence platform for crop disease detection and data-driven farming decisions.</sub>
-    </td>
   </tr>
 </table>
 
@@ -71,7 +67,7 @@
 <h2 align="center">GitHub Insights 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StackFox&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=StackFox&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StackFox&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
