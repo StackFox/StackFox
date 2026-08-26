@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/StackFox">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=700&color=9A4DFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rakshit+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;Currently+Learning+Spring+Boot+%E2%98%95%EF%B8%8F" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=700&color=61caa3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rakshit+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;Currently+Learning+Spring+Boot+%E2%98%95%EF%B8%8F" alt="Typing Animation"/>
   </a>
 </p>
 
@@ -38,15 +38,19 @@
 <table align="center">
   <tr>
     <td align="center" width="280px">
+      <b>📦 LabStash</b><br>
+      <sub>A privacy-focused temporary file-sharing service — upload files, get a short code, download later. No account needed.</sub>
+    </td>
+    <td align="center" width="280px">
       <b>🧠 Aura PDF</b><br>
       <sub>A RAG application for natural language processing on PDF files — ask questions, get answers from your documents.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="280px">
       <b>📱 LifeQR</b><br>
       <sub>Full-stack QR code platform with separate frontend & backend — generate, manage, and track QR codes.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="280px">
       <b>🔗 Linkly</b><br>
       <sub>A URL Shortener built with Spring Boot — clean, minimal, and fast.</sub>
@@ -59,7 +63,15 @@
 <h2 align="center">Tech Stack ⚙️</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,java,spring,python,html,css,tailwind,vite,mysql,mongodb,git,github,docker,vscode,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,tailwind,vite,react,nextjs,nodejs,express,bun,java,c,cpp,spring,python,fastapi,mysql,mongodb,postgresql,sqlite,redis,docker,vercel,git,github,cloudflare&theme=dark" />
+</p>
+
+---
+
+<h2 align="center">Favourite Apps 🧑‍💻</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,powershell,bash,ai,ps,linux,notion, discord&theme=dark" />
 </p>
 
 ---
@@ -67,12 +79,15 @@
 <h2 align="center">GitHub Insights 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StackFox&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StackFox&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StackFox&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160px"/>
+  <a href="https://github.com/StackFox?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-12+-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/StackFox">
+    <img src="https://img.shields.io/badge/Contributions-Welcome-44BC47?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/StackFox?tab=followers">
+    <img src="https://img.shields.io/github/followers/StackFox?style=for-the-badge&logo=github&logoColor=white&color=9A4DFF" alt="Followers"/>
+  </a>
 </p>
 
 ---
@@ -108,5 +123,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/kyechan99/capsule-render/blob/master/docs/demo.gif?raw=true" width="100%" alt="automation wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Peace ✌️&fontAlign=80&fontAlignY=40&color=gradient" width="100%" alt="automation wave"/>
 </p>
